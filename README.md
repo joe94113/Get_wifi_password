@@ -6,11 +6,11 @@
 
 ![Alt text](1.jpg)
 
-### 指令: netsh vlan show profile (輸入查找wifi名稱)
+### 指令: netsh wlan show profile (輸入查找wifi名稱)
 
 ![Alt text](2.jpg)
 
-### 指令: netsh vlan show profile (輸入查找wifi名稱) key=clear
+### 指令: netsh wlan show profile (輸入查找wifi名稱) key=clear
 
 ![Alt text](3.jpg)
 
