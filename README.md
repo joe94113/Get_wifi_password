@@ -2,7 +2,7 @@
 
 ## 必須在python3.7+環境執行
 
-### 指令: netsh vlan show profile
+### 指令: netsh wlan show profile
 
 ![Alt text](1.jpg)
 
